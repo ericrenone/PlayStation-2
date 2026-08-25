@@ -7,7 +7,7 @@
 * Sara Hooker — August, 2020
 
 
-* https://hardwarelottery.github.io/
+* https://hardwarelottery.github.io
 
 ---
 
