@@ -3,6 +3,13 @@
 ## How the PlayStation 2 Revealed the Hidden Structure of Technical Choice
 
 ---
+* The Hardware Lottery
+* Sara Hooker — August, 2020
+
+
+* https://hardwarelottery.github.io/
+
+---
 
 ## The Paradox at the Heart
 
